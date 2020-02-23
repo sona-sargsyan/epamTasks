@@ -1,0 +1,14 @@
+{
+  "tv": {
+    "power": 599,
+    "isPowerOn": true
+  },
+  "vacuum": {
+    "power": 879,
+    "isPowerOn": true
+  },
+  "microwave": {
+    "power": 600,
+    "isPowerOn": true
+  }
+}
